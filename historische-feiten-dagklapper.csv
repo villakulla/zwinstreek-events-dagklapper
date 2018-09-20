@@ -1,0 +1,442 @@
+﻿id,zwinstreek_uri,datum,auteur,auteur_uri,boek,boek_uri,bladzijde,gebeurtenis,trefwoord_concept,trefwoord_place,trefwoord_agent,trefwoord_period,uitgeverij
+20,http://www.zwinstreek.eu/event/id/20,1070,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,53,Indijking van de Volkaertspolder.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+27,http://www.zwinstreek.eu/event/id/27,1100 (ca.),André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,54,Aanleg van de Grevelingendijk en de Grevelingenpolder.,dijk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+33,http://www.zwinstreek.eu/event/id/33,1110,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,28,"Baldrik, bisschop van Doornik, bevestigt in 1110 de bezittingen van de Sint-Kwintensabdij in Vlaanderen, o.a. het altaar van Oostkerke met de kerk en vier kapellen. De eerste kapel op het eiland Wulpen de tweede te Lapscheure, de derde te Murkerke (Moerkerke), de vierde te Was (Westkapelle).",abdij,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,parochie,,,,
+38,http://www.zwinstreek.eu/event/id/38,1130,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,54,De Schelpenbankpolder komt tot stand.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+40,http://www.zwinstreek.eu/event/id/40,1130,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,53,Na de bouw van de Steven de Brabanderdijk wordt de Butspolder ingepolderd.,dijk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+42,http://www.zwinstreek.eu/event/id/42,1135,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,28,Vredius vermeldt in een tekst 'Knok'.,kust,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,,Knokke,,,
+44,http://www.zwinstreek.eu/event/id/44,1150,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,54,Inpoldering van de Baespolder.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+57,http://www.zwinstreek.eu/event/id/57,1187,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,28,"De Sincfal, een kreek, wordt voor het eerst 'Zwin' genoemd.",,Zinkval,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,kust,,,,
+73,http://www.zwinstreek.eu/event/id/73,1217,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,28,Vroegste vermelding van 'Cnocke' in een privilegie van Johanna van Konstantinopel.,,Knokke,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overheid,,,,
+82,http://www.zwinstreek.eu/event/id/82,1230,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,55,Indijking van de Bukuspolder.,dijk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+94,http://www.zwinstreek.eu/event/id/94,12531007,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,29,De kapel van Knokke (Sint-Kathelijnen-ten-Cnocken) wordt door de Bisschop van Doornik afgescheiden van de parochie Koudekerke en verheven tot parochiekerk.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,parochie,,,,
+,,,,,,,,,,Heist,,,
+,,,,,,,,,,,Sint-Katerina,,
+,,,,,,,,,,Knokke,,,
+109,http://www.zwinstreek.eu/event/id/109,1282,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,55,Indijking van de Maneschijnpolder.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+126,http://www.zwinstreek.eu/event/id/126,1304,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,29,In de stadsrekeningen van Brugge komt de eerste vermelding voor van het Hazegras ('doen diken polre Asegerse').,polders,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+141,http://www.zwinstreek.eu/event/id/141,1335,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,29,Oudste vermelding van de Keuvelhoeve.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,landbouw,,,,
+,,,,,,,,,boerderij,,,,
+145,http://www.zwinstreek.eu/event/id/145,13400603,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,29,Franse vloot met 30.000 krijgslieden legt aan in het Zwin.,zeemacht,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,oorlog,,,,
+,,,,,,,,,marine,,,,
+147,http://www.zwinstreek.eu/event/id/147,13400624,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,30,Koning Edward II van Engeland komt terug uit Engeland en verslaat de Franse oorlogsvloot in de Zwinmonding.,oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,zeemacht,,,,
+,,,,,,,,,marine,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,Honderdjarige Oorlog,
+,,,,,,,,,oorlogsschepen,,,,
+,,,,,,,,,vloot,,,,
+,,,,,,,,,,Sluis,,,
+180,http://www.zwinstreek.eu/event/id/180,14041119,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,53,Grote vloed in Zeeland : eerste Elisabethsvloed (19 november 1404) waarbij de Vlaamse en Zeeuwse kust zwaar wordt getroffen. De Braakman breidt zich uit..,klimaat,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,storm,,,,
+,,,,,,,,,stormvloed,,,,
+,,,,,,,,,overstroming,,,,
+,,,,,,,,,dijkbreuk,,,,
+210,http://www.zwinstreek.eu/event/id/210,1422,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"20, 30",De opening van het Oude Zwin (900 m) wordt gedicht met een verlenging van de Graaf Jansdijk tussen de Witte Hoeve en de Vrede.,polders,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,dijk,,,,
+,,,,,,,,,,Knokke,,,
+,,,,,,,,,waterlopen,,,,
+,,,,,,,,,waterwegen,,,,
+213,http://www.zwinstreek.eu/event/id/213,1426,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,31,In de duinen wordt een wachter ('upperduneheerder') aangesteld. Er mogen geen honden of katten in de duinen komen.,duinenwacht,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+218,http://www.zwinstreek.eu/event/id/218,1428,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,31,"Jan de Baenst, baljuw van Sluis, krijgt eeuwigdurend de Hazegrasschorre in pacht van de Graaf. Vroegste vermelding van de Oude Hazegraspolder als schorrengebied.",polders,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overheid,,,,
+,,,,,,,,,dijk,,,,
+232,http://www.zwinstreek.eu/event/id/232,1452,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,32,Filips de Goede verkoopt het beheer en de opbrengst van de Vlaamse Oostduinen aan Bertrand la BrocquÃ¨re.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,duinen,,,,
+272,http://www.zwinstreek.eu/event/id/272,14850314,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,32,"Jacob van Ghistel, heer van Dudzele, probeert Sluis te veroveren.",overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,oorlog,,,,
+334,http://www.zwinstreek.eu/event/id/334,15470423,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,32,Keizer Karel geeft toestemming aan de familie de Baenst om de schorren verder in te dijken.,polders,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overheid,,,,
+346,http://www.zwinstreek.eu/event/id/346,1561,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,33,"Het eiland Wulpen, voor de kust van Knokke, wordt door de zee verzwolgen.",,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+360,http://www.zwinstreek.eu/event/id/360,1569,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,33,Oudste bekende rekeningen van de Sint-Margarethakerk aan Knokke.,kerk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,godsdienst,,,,
+363,http://www.zwinstreek.eu/event/id/363,1571,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,33,Grote stormvloed.,rampen,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overstroming,,,,
+373,http://www.zwinstreek.eu/event/id/373,15721022,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,33,De Watergeuzen bedreigen het Zwin.,oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,zeemacht,,,,
+,,,,,,,,,marine,,,,
+,,,,,,,,,zeevaart,,,,
+378,http://www.zwinstreek.eu/event/id/378,1574-1575,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"21, 33",Tijdens de winter plunderen de Watergeuzen Knokke.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+405,http://www.zwinstreek.eu/event/id/405,15931025,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,34,Maurits van Nassau landt met een leger van 4000 man op de kust van Knokke en Heist. Zijn poging om Brugge in te nemen mislukt en hij trekt zich terug.,oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+414,http://www.zwinstreek.eu/event/id/414,1603,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,34,De galeien van Frederik Spinola worden tot zinken gebracht in de Zwindelta.,oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,zeevaart,,,,
+,,,,,,,,,zeeschepen,,,,
+,,,,,,,,,zeemacht,,,,
+,,,,,,,,,marine,,,,
+427,http://www.zwinstreek.eu/event/id/427,16040819,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,35,Maurits van Nassau verovert Sluis. De uitgehongerde bezetting van Sluis geeft zich over aan de Prins van Oranje. Na de inname van Sluis wordt het Sint-Jobsfort verlaten.,oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+442,http://www.zwinstreek.eu/event/id/442,1614,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,35,Grote vernielingen in de duinen door de konijnen.,kust,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+469,http://www.zwinstreek.eu/event/id/469,1627,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"21, 34, 56, 84",De Linie van Fontaine wordt noordwaarts verlengd door de bouw van het Sint-Paulusfort dat met de Paulusvaart verbonden wordt met de Legervaart en het Sint-Izabellafort. Daarnaast wordt ook het Sint-Bernaartfort (aan de Paulusvaart) en het Sint-Annafort (Sterrenfort - aan de Vuile Vaart) gebouwd. Bij het graven van de Paulusvaart wordt de Paulusdijk opgeworpen waardoor ca. 600 G uit het Hazegras wordt ingepolderd.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,dijk,,,,
+,,,,,,,,,fort,,,,
+488,http://www.zwinstreek.eu/event/id/488,1639,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,36,"Rooftochten, met brand en vernieling van de oogsten in Knokke.",oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,plunderingen,,,,
+,,,,,,,,,landbouw,,,,
+503,http://www.zwinstreek.eu/event/id/503,1642,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,36,Knokke telt ca. 200 inwoners.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+505,http://www.zwinstreek.eu/event/id/505,1642,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,36,Oudste bewaard document van de Sint-Sebastiaansgilde.,sportvereniging,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,boogschieten,,,,
+506,http://www.zwinstreek.eu/event/id/506,1642,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,36,Voltooiing van de kerk van Knokke (waarvan het torentje nog is bewaard).,kerk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,godsdienst,,,,
+515,http://www.zwinstreek.eu/event/id/515,1646,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,36,"Knokke telt 260 inwoners en 65 huizen, waarvan 44 landbouwerswoningen ten zuiden van de Graaf Jansdijk.",dijk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,polders,,,,
+521,http://www.zwinstreek.eu/event/id/521,16480413,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,36,Onder impuls van Marc Albert Arazalo d'Ognatie wordt de Sint-Sebastiaansgilde van Knokke weer opgericht.,sportvereniging,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,boogschieten,,,,
+560,http://www.zwinstreek.eu/event/id/560,1675-1676,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"36, 85",Tijdens de wintermaanden zorgt een dijkbreuk ervoor dat Het Zoute onder water komt te staan (Knokke).,dijk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,polders,,,,
+,,,,,,,,,rampen,,,,
+,,,,,,,,,overstroming,,,,
+588,http://www.zwinstreek.eu/event/id/588,17040316,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,37,Een Franse boot strandt op de kust van Knokke.,zeevaart,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,zeeschepen,,,,
+,,,,,,,,,scheepsramp,,,,
+598,http://www.zwinstreek.eu/event/id/598,1715,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"37, 85","Door het Barrièretraktaat wordt een groot gebied van Knokke, Westkapelle en Heist bij de Verenigde Provinciën gevoegd.",grens,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overheid,,,,
+610,http://www.zwinstreek.eu/event/id/610,1718,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"37, 85",Herziening van het Barrièretraktaat. Het in 1715 afgestane gebied komt terug bij de Oostenrijkse Nederlanden.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,grens,,,,
+617,http://www.zwinstreek.eu/event/id/617,1733,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,76,Oudste vermelding van een molenaar op de Kalfmolen.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+619,http://www.zwinstreek.eu/event/id/619,17360227,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,37,Dijkbreuk in de door konijnen ondergraven Paulusdijk bij het Sint-Paulusfort.,polders,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,rampen,,,,
+,,,,,,,,,dijk,,,,
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,fort,,,,
+645,http://www.zwinstreek.eu/event/id/645,1757-1758,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,37,Grote stormen teisteren het dorp en de kerk van Knokke tijdens de winter.,kerk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,godsdienst,,,,
+,,,,,,,,,rampen,,,,
+683,http://www.zwinstreek.eu/event/id/683,1782,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"38, 40, 56, 280",Emmanuel de Croy krijgt toelating om de Hazegrasschorre verder in te dijken.,polders,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+686,http://www.zwinstreek.eu/event/id/686,1783,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,40,"Bouw van de Nieuwe Hazegraspolderdijk, waardoor 648 ha van de Nieuw Hazegras vrijkomen (cfr. ook 1784).",dijk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+694,http://www.zwinstreek.eu/event/id/694,1784,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"22, 34, 38, 56, 67, 94","Bouw van de tweede Hazegraspolderdijk met indijking van de Nieuwe Hazegraspolder door Phillippe-FranÃƒÂ§ois Lippens. Het Oostenrijks landsbestuur laat 5 nieuwe sluizen bouwen, o.a.een sluis in het Hazegras. De sluis zou beschermd worden met een nieuw fort (Hazegrasfort). Het Izabellafort wordt afgevoerd.",patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,fort,,,,
+,,,,,,,,,sluis,,,,
+701,http://www.zwinstreek.eu/event/id/701,1784,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,40,Philippe François Lippens koopt een groot gedeelte van de Nieuw Hazegraspolder.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+713,http://www.zwinstreek.eu/event/id/713,1786,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,67,Afwerking van het Hazegrasfort.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,leger,,,,
+,,,,,,,,,fort,,,,
+746,http://www.zwinstreek.eu/event/id/746,17970324,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"42, 65","Na de confiscatie van de kerkelijke goederen wordt de hoeve de Grote Keuvele, die eigendom was van het klooster van Vauxelles, openbaar verkocht.",overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,godsdienst,,,,
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,landbouw,,,,
+,,,,,,,,,hoeve,,,,
+,,,,,,,,,boerderij,,,,
+759,http://www.zwinstreek.eu/event/id/759,1803,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,43,Mogelijk eerste bezoek van Napoleon aan Knokke.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+760,http://www.zwinstreek.eu/event/id/760,18030120,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,43,Installatie van pastoor Bernard Lippens in Knokke.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+765,http://www.zwinstreek.eu/event/id/765,18050826,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,43,Generaal Van Damme krijgt van Napoleon de toelating om het Zwin verder in te dijken.,kust,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overheid,,,,
+766,http://www.zwinstreek.eu/event/id/766,1807,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,43,Installatie van pastoor Sysen in Knokke.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+782,http://www.zwinstreek.eu/event/id/782,1815,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,44,Carolus van Westerveldt wordt pastoor van Knokke.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+798,http://www.zwinstreek.eu/event/id/798,18201225,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,337,Het schip Antigone strandt op de Paardenmarkt voor Knokke (cfr. ook 1830).,zeevaart,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,scheepsramp,,,,
+,,,,,,,,,zeeschepen,,,,
+802,http://www.zwinstreek.eu/event/id/802,1822,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,44,Joannes van Westerveldt (broer van Carolus van Westerveldt) wordt pastoor van Knokke.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+803,http://www.zwinstreek.eu/event/id/803,1822,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"12, 44",Knokke telt 917 inwoners.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+804,http://www.zwinstreek.eu/event/id/804,1824,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"44, 199",De koster Sebastiaan Vervaecke wordt de eerste onderwijzer van Knokke.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+812,http://www.zwinstreek.eu/event/id/812,1827,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,45,Carolus Moygnacq wordt pastoor van Knokke.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+828,http://www.zwinstreek.eu/event/id/828,1830,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"17, 46",Jan de Maecker volgt Jan Devisch op als burgemeester.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+833,http://www.zwinstreek.eu/event/id/833,18301020,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,45,"Militairen uit Brugge komen naar de Hazegraspolder, verdrijven de Hollanders en plaatsen er een batterij om de Zwinmonding te beschermen.",oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,verdediging,,,,
+840,http://www.zwinstreek.eu/event/id/840,18301225,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,45,Het schip De Antigone strandt op de kust van Knokke (cfr. 1820).,zeevaart,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,scheepsramp,,,,
+,,,,,,,,,zeeschepen,,,,
+850,http://www.zwinstreek.eu/event/id/850,18310805,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"45, 68",Twee Nederlandse kanonneerboten komen het Zwin binnengevaren om de Hazegrassluis te vernielen maar zij worden teruggedreven. Eén boot wordt door de Belgen gekelderd.,oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,polders,,,,
+,,,,,,,,,sluis,,,,
+859,http://www.zwinstreek.eu/event/id/859,183111,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,46,"De resten van het Hazegrasfort worden opnieuw in gebruik genomen. Werken worden aangevat om het fort om te bouwen tot ""Leopoldfort"".",leger,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,fort,,,,
+866,http://www.zwinstreek.eu/event/id/866,18330901,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,46,Het Franse schip Jeune Aurélie strandt op de kust van Knokke.,scheepsramp,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,zeeschepen,,,,
+868,http://www.zwinstreek.eu/event/id/868,18331130,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,337,De Engelse schoener 'Charlotte' vergaat voor de kust van Knokke.,zeevaart,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,scheepsramp,,,,
+,,,,,,,,,zeeschepen,,,,
+874,http://www.zwinstreek.eu/event/id/874,1834,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,68,Het Leopoldfort wordt verlaten.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,fort,,,,
+885,http://www.zwinstreek.eu/event/id/885,1835,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"47, 337",De 'éduse de Bruxelles' vergaat op de Paardenmarkt.,zeevaart,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,scheepsramp,,,,
+887,http://www.zwinstreek.eu/event/id/887,18351224,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"47, 337",Het schip de 'Vrouwe Gelie van Truyden' vergaat voor de kust van Knokke.,zeevaart,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,scheepsramp,,,,
+,,,,,,,,,zeeschepen,,,,
+891,http://www.zwinstreek.eu/event/id/891,1836,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,47,Pastoor Vercruysse wordt in Knokke geïnstalleerd.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+904,http://www.zwinstreek.eu/event/id/904,1839,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,47,Het Leopoldfort wordt ontmanteld.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,fort,,,,
+907,http://www.zwinstreek.eu/event/id/907,1839,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,337,Het schip 'Jane of London' vergaat voor de kust van Knokke.,zeevaart,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,scheepsramp,,,,
+,,,,,,,,,zeeschepen,,,,
+913,http://www.zwinstreek.eu/event/id/913,1840,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,12,Knokke telt 1134 inwoners.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+920,http://www.zwinstreek.eu/event/id/920,1841,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,337,Schipbreuk van de 'Clio' voor de Knokse kust.,scheepsramp,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,zeevaart,,,,
+,,,,,,,,,zeeschepen,,,,
+932,http://www.zwinstreek.eu/event/id/932,1843,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,338,Schipbreuk van de 'Nelson' voor de kust van Knokke.,scheepsramp,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,zeevaart,,,,
+,,,,,,,,,zeeschepen,,,,
+935,http://www.zwinstreek.eu/event/id/935,18430904,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"47, 199",Overlijden van de Knokse onderwijzer Sebastiaan Vervaecke. Hij wordt opgevolgd door koster Joseph Fournier.,school,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+951,http://www.zwinstreek.eu/event/id/951,1846,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,47,"Hongersnood, plunderingen, bedelaars. Slechte rogge- en aardappeloogst.",armoede,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,landbouw,,,,
+,,,,,,,,,rampen,,,,
+974,http://www.zwinstreek.eu/event/id/974,1854,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"47, 159",Gemeenteraadsverkiezingen. Philip Tavernier wordt burgemeester van Knokke (tot 1872).,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+979,http://www.zwinstreek.eu/event/id/979,1854,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"47, 199, 200",Onderwijzer Joseph Fournier van Knokke emigreert naar Amerika. Hij wordt opgevolgd door Pieter Ackerman.,school,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,emigratie,,,,
+,,,,,,,,,uitwijking,,,,
+987,http://www.zwinstreek.eu/event/id/987,1855,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"47, 200",Bouw van de eerste school voor jongens en meisjes op het Dorpsplein.,onderwijs,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,straat,,,,
+,,,,,,,,,school,,,,
+1001,http://www.zwinstreek.eu/event/id/1001,1856,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"47, 145","De eerste weg van Knokke-Dorp naar de zee wordt door de duinen getrokken (Zeeweg). Op het einde van deze weg bouwt het leger een telegraafkantoor (cfr. ook 1868, 1869, 1878 en 1886).",verkeer,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,openbare werken,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,communicatie,,,,
+,,,,,,,,,straat,,,,
+1002,http://www.zwinstreek.eu/event/id/1002,1856,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"47, 145","De steenweg Westkapelle-Knokke, over de Kragendijk, wordt opnieuw gekasseid.",straat,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,verkeer,,,,
+,,,,,,,,,openbare werken,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,dijk,,,,
+,,,,,,,,,polders,,,,
+1028,http://www.zwinstreek.eu/event/id/1028,186011,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,47,Een grote storm doet de duinen verstuiven en enkele huisjes in het Kalf worden door het zand bedolven.,rampen,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,zandverstuiving,,,,
+1034,http://www.zwinstreek.eu/event/id/1034,1862,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,47,Serweytens bouwt een modelhoeve in het duinengebied.,landbouw,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1040,http://www.zwinstreek.eu/event/id/1040,18640426,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,293,Overlijden van Charles Serweytens. De uitbating van de duinenhoeve wordt stilgelegd.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,landbouw,,,,
+,,,,,,,,,boerderij,,,,
+1074,http://www.zwinstreek.eu/event/id/1074,186912,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"48, 145",De Zeeweg wordt rechtgetrokken en over een breedte van 5 meter gekasseid. Begin van de werkzaamheden.,straat,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,openbare werken,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,verkeer,,,,
+,,,,,,,,,toerisme,,,,
+1079,http://www.zwinstreek.eu/event/id/1079,1870,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,200,Scheiding tussen de meisjes- en jongensschool. Jeanne-Françoise Mullier wordt de eerste onderwijzeres.,school,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1088,http://www.zwinstreek.eu/event/id/1088,18710309,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"9, 48, 159",Het gemeentehuis van Knokke verhuist van de herberg Het Kalf naar De Zwaan in het Dorp.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+1098,http://www.zwinstreek.eu/event/id/1098,1872,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,48,Aanleg van de Hazegrasstraat tussen de Graaf Jansdijk en het Fort Sint-Pol.,openbare werken,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,,,,,
+,,,,,,,,,verkeer,,,,
+,,,,,,,,,straat,,,,
+,,,,,,,,,dijk,,,,
+,,,,,,,,,polders,,,,
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,fort,,,,
+1103,http://www.zwinstreek.eu/event/id/1103,1872,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"48, 145, 327, 337",De Vuurtoren van Knokke wordt in werking gesteld. Naast de Vuurtoren wordt een gebouwtje voor de Reddingsdienst geplaatst.,zeevaart,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+1112,http://www.zwinstreek.eu/event/id/1112,18721109,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,48,"Afdamming van het Zwin door de Internationale Dijk, waardoor de Willem-Leopoldpolder wordt gewonnen.",openbare werken,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,,,,,
+,,,,,,,,,dijk,,,,
+1117,http://www.zwinstreek.eu/event/id/1117,1873,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,146,"Aanleg van de Hazegrasstraat (cfr. 1872, 1868).",openbare werken,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,,,,,
+,,,,,,,,,verkeer,,,,
+,,,,,,,,,straat,,,,
+1162,http://www.zwinstreek.eu/event/id/1162,1882,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,122,Louis van Steene wordt hoofdonderwijzer in de Gemeenteschool van Knokke.,school,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,onderwijs,,,,
+1164,http://www.zwinstreek.eu/event/id/1164,1882,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,160,Schoolstrijd in Knokke.,school,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,onderwijs,,,,
+1168,http://www.zwinstreek.eu/event/id/1168,1883,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"115, 227","De eerste badkar, geleend in Heist, komt op het strand van Knokke.",toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1192,http://www.zwinstreek.eu/event/id/1192,1886,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,227,"De Zeeweg wordt rechtgetrokken (cfr. 1856, 1868, 1869, 1878).",straat,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,openbare werken,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,verkeer,,,,
+1198,http://www.zwinstreek.eu/event/id/1198,1887,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,8,Uitgave van de toeristische gids 'Littoral Belge' door de gebroeders Heins.,reisgids,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1204,http://www.zwinstreek.eu/event/id/1204,188707,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,115,Reeds vier badkarhouders op het strand.,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1219,http://www.zwinstreek.eu/event/id/1219,1888,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"147, 148",Knokke wordt door een tramlijn over Westkapelle verbonden met Brugge. Deze tram rijdt verder tot het station van Heist (cfr. 1890).,verkeer,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,buurtspoorwegen,,,,
+1221,http://www.zwinstreek.eu/event/id/1221,1888-1889,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,96,Paul Parmentier komt zich vestigen in Knokke (Smedenstraat).,straat,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overheid,,,,
+1225,http://www.zwinstreek.eu/event/id/1225,1888,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"7, 8, 92, 251",Uitgave van de reisgids 'Guide Illustré de la côte de Flandre' door Jean d'Ardenne (pseud. van Leon Dommartin).,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1235,http://www.zwinstreek.eu/event/id/1235,1889,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,8,Eerste fotografische experimenten door Paul Parmenier.,kunst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1253,http://www.zwinstreek.eu/event/id/1253,1890,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,97,"Heroprichting van de Sint-Sebastiaansgilde van Knokke onder impuls van Paul Parmentier, die hoofdman wordt.",sportvereniging,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,boogschieten,,,,
+1255,http://www.zwinstreek.eu/event/id/1255,1890,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,282,"In Knokke-Dorp worden de hotels Le Cygne, Communal, de Bruges en de Lion d'Or gebouwd.",toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,middenstand,,,,
+,,,,,,,,,horeca,,,,
+1257,http://www.zwinstreek.eu/event/id/1257,1890,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"12, 151",Knokke telt 1501 inwoners en 300 huizen. Jaarlijks komen ca. 3000 badgasten.,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1301,http://www.zwinstreek.eu/event/id/1301,18911112,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,96,Paul Parmentier wordt schepen van Knokke in opvolging van Philippe Tavernier.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1308,http://www.zwinstreek.eu/event/id/1308,1892,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,89,Moeder Siska begint haar wafelbak zonder voorafgaande bestelling (cfr. 1893).,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,middenstand,,,,
+,,,,,,,,,horeca,,,,
+1318,http://www.zwinstreek.eu/event/id/1318,1893,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,132,Inhuldiging van het kapelletje aan de Graaf Jansdijk.,straat,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,dijk,,,,
+,,,,,,,,,godsdienst,,,,
+,,,,,,,,,devotie,,,,
+,,,,,,,,,patrimonium,,,,
+1322,http://www.zwinstreek.eu/event/id/1322,1893,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,115,"Oprichting van een Knokse badendienst met een dokter, een controleur en drie redders.",toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1343,http://www.zwinstreek.eu/event/id/1343,18940916,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"145, 227",De Gemeenteraad van Knokke beslist om de Zeeweg om te dopen tot Lippenslaan.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,straat,,,,
+,,,,,,,,,naamgeving,,,,
+1345,http://www.zwinstreek.eu/event/id/1345,1895,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,146,Aanleg van de kasseiweg Knokke-Heist.,openbare werken,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,,,,,
+,,,,,,,,,verkeer,,,,
+,,,,,,,,,straat,,,,
+1358,http://www.zwinstreek.eu/event/id/1358,18950914,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,103,Overlijden van Alfred Verwee in Brussel.,schilderkunst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1387,http://www.zwinstreek.eu/event/id/1387,1897,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,227,De Lippenslaan wordt rijksweg (Knokke).,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,verkeer,,,,
+,,,,,,,,,straat,,,,
+1392,http://www.zwinstreek.eu/event/id/1392,18970303,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,172,Molen van Martinus Van Damme waait omver door een hevige storm en wordt verwoest.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,middenstand,,,,
+,,,,,,,,,rampen,,,,
+1399,http://www.zwinstreek.eu/event/id/1399,1897,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,142,In de zomer telt men 11.362 zeebaden in Knokke.,strand,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,toerisme,,,,
+1410,http://www.zwinstreek.eu/event/id/1410,1899,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,9,Uitgave van een toeristische gids door Edgard Auguin.,reisgids,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1426,http://www.zwinstreek.eu/event/id/1426,1900,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,12,Knokke telt 2022 inwoners.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1430,http://www.zwinstreek.eu/event/id/1430,1900,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,143,De badendienst telt 16.484 zeebaden tijdens het seizoen (Knokke).,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1449,http://www.zwinstreek.eu/event/id/1449,190207,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,119,"'Le Knockenaar', een satirisch blaadje, verschijnt voor het eerst.",tijdschrift,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1451,http://www.zwinstreek.eu/event/id/1451,19020822,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,98,"Overlijden van Paul Parmentier, oud-schepen van Knokke en heroprichter van de Sint-Sebastiaansgilde. Hij wordt als schepen van Knokke opgevolgd door Eward Verheye.",overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,sportvereniging,,,,
+,,,,,,,,,boogschieten,,,,
+1467,http://www.zwinstreek.eu/event/id/1467,1904,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,23,Bij de aanleg van de nieuwe havendam in Zeebrugge ontdekt men de resten van een Romeins kamp.,werk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,archeologische vondsten,,,,
+1470,http://www.zwinstreek.eu/event/id/1470,1904,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,7,"Een reeks over de geschiedenis van Knokke door Paul Fraeys, verschijnt in het zomertijdschrift La Mouette.",,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1483,http://www.zwinstreek.eu/event/id/1483,19040830,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,225,Brand in het Hotel du Phare in Knokke.,rampen,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,horeca,,,,
+,,,,,,,,,middenstand,,,,
+1488,http://www.zwinstreek.eu/event/id/1488,1905,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,143,De badendienst telt 24.885 zeebaden tijdens het seizoen.,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1493,http://www.zwinstreek.eu/event/id/1493,1905,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,12,Knokke telt 2557 inwoners.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1509,http://www.zwinstreek.eu/event/id/1509,1906,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,143,Het aantal zeebaden steeg tot 36.354 (Knokke).,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1528,http://www.zwinstreek.eu/event/id/1528,190710,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"147, 149, 175",De liberalen winnen de gemeenteraadsverkiezingen op de katholieken. Theophiel D'hoore blijft burgemeester. Pieter Vermeire en Victor Lamoral worden schepenen.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1536,http://www.zwinstreek.eu/event/id/1536,1908,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"115, 228",Er staan reeds vijftien badkarhouders op het strand van Knokke.,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1552,http://www.zwinstreek.eu/event/id/1552,19080705,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"18, 252, 259, 326","Eerstesteenlegging van de uitbreiding van de Zeedijk van Knokke, de dijk van Het Zoute, de oorspronkelijke Leopolddijk",,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1559,http://www.zwinstreek.eu/event/id/1559,1908,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"115, 228",Tijdens de zomer telt men 39.393 (of 36.358 ?)zeebaden (Knokke).,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1567,http://www.zwinstreek.eu/event/id/1567,1909,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,253,"Bouw van het Grand Hotel du Zoute, het eerste hotel in Het Zoute.",horeca,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,middenstand,,,,
+1571,http://www.zwinstreek.eu/event/id/1571,1909,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,163,Een kustvaartuig uit Nieuwpoort strandt bij de Lekkerbek (Knokke).,zeevaart,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,zeeschepen,,,,
+,,,,,,,,,scheepsramp,,,,
+1578,http://www.zwinstreek.eu/event/id/1578,1909,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,115,Tijdens het toeristisch seizoen telt de badendienst ca. 41.000 zeebaden (Knokke).,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1582,http://www.zwinstreek.eu/event/id/1582,19091107,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,252,Voltooiing van de uitbreiding van de Knokse Zeedijk naar Het Zoute.,zeedijk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,toerisme,,,,
+1590,http://www.zwinstreek.eu/event/id/1590,1910,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,135,In Knokke wordt voor het eerst een wedstrijd voor beroepsrenners georganiseerd.,sport,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,wielrennen,,,,
+1591,http://www.zwinstreek.eu/event/id/1591,1910,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,201,Naast het huidige Stadhuis wordt door de Zusters Dominicanen van Langres-Dijon een pensionaat voor juffers ingericht.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,onderwijs,,,,
+,,,,,,,,,school,,,,
+1594,http://www.zwinstreek.eu/event/id/1594,1910,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,115,Zomerseizoen met 16.200 vreemdelingen en 50.000 zeebaden (9.000 meer dan vorig jaar)(Knokke).,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1595,http://www.zwinstreek.eu/event/id/1595,19101012,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,139,"E.H. J. Opdedrinck, pastoor op rust, komt in Knokke wonen.",godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,inwoner,,,,
+1606,http://www.zwinstreek.eu/event/id/1606,1911,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"122, 201",Louis Van Steene wordt als hoofdonderwijzer in de Gemeenteschool van Knokke opgevolgd door zijn broer Leopold.,school,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1612,http://www.zwinstreek.eu/event/id/1612,19110109,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"294, 295, 326",Oprichting van de bouwmaatschappij Knokke-Duinbergen-Extensions.,stedenbouw,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,toerisme,,,,
+1615,http://www.zwinstreek.eu/event/id/1615,19110307,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,151,De plannen voor een nieuw stadhuis worden voorgesteld door bouwmeester Van Wassenhove (Knokke).,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overheid,,,,
+1618,http://www.zwinstreek.eu/event/id/1618,1911,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,143,Het badseizoen telt 80.000 zeebaden : 76.879 baden in Knokke en 4.940 baden in Het Zoute.,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1620,http://www.zwinstreek.eu/event/id/1620,1912,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,236,Boringen voor grondonderzoek door ingenieur Paul Lippens waarbij de bron (in de Bronlaan) wordt ontdekt.,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,straat,,,,
+1627,http://www.zwinstreek.eu/event/id/1627,1912,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,12,Knokke telt 3262 inwoners.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1629,http://www.zwinstreek.eu/event/id/1629,1912,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,253,Twee golfterreinen met 18 putten zijn klaar (Knokke).,sport,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,toerisme,,,,
+1633,http://www.zwinstreek.eu/event/id/1633,19120516,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"9, 147, 175",Louis De Klerck wordt plechtig ingehaald als burgemeester van Knokke. Victor Lamoral en Pieter Vermeire worden schepenen.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1638,http://www.zwinstreek.eu/event/id/1638,19120629,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,150,De elektrische tramlijn Blankenberge - Heist wordt doorgetrokken via het Dorp van Knokke tot Het Zoute en de paardentram door de Lippenslaan verdwijnt.,verkeer,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,buurtspoorwegen,,,,
+1647,http://www.zwinstreek.eu/event/id/1647,1913,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"26, 27","Tijdens graafwerken die in 1913 in Knokke werden uitgevoerd in het kader van waterwinning voor de plaatselijke waterbedeling, ontdekt men op 6 meter diepte onder het duinenzand een eiken vaartuig, vermoedelijk afkomstig uit de 7de eeuw. Deze ""boot van Knokke"" levert eens temeer het bewijs dat het Sincfal zoals het Zwin toen werd geheten, de zeearm was van de mond van een vaargeul die uit de richting van Brugge kwam.",watervoorziening,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,openbare werken,,,,
+,,,,,,,,,archeologische vondsten,,,,
+1658,http://www.zwinstreek.eu/event/id/1658,19130117,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,199,Uitgave van Knocke-sur-Mer : Histoire et Souvenirs door E.H. Juliaan Opdedrinck.,geschiedenis,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1677,http://www.zwinstreek.eu/event/id/1677,1914,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,115,In de zomer verkrijgen 20 badkarhouders een concessie en men telt ca. 50.000 zeebaden (Knokke).,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1687,http://www.zwinstreek.eu/event/id/1687,19150713,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,183,Leander Waeghe wordt bij een poging om de Nederlandse grens over te steken door de Duitsers doodgeschoten (Knokke).,grens,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,oorlog,,,,
+,,,,,,,,,verzet,,,,
+,,,,,,,,,weerstand,,,,
+1690,http://www.zwinstreek.eu/event/id/1690,1918,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,231,Pastoor Leon Bonte volgt pastoor Loosveld op in Knokke.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1693,http://www.zwinstreek.eu/event/id/1693,19180422,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,183,Sint-Jorisnacht : de Engelsen pogen Zeebrugge te veroveren.,,,Saint George,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1699,http://www.zwinstreek.eu/event/id/1699,19181001,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"18, 45, 75, 112, 154, 183, 187",Alle weerbare mannen worden in Knokke samengebracht op het Gemeentehuis en door de Duitsers weggevoerd.,oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1702,http://www.zwinstreek.eu/event/id/1702,19181018,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"183, 282",De Duitsers verlaten Knokke na de Eerste Wereldoorlog.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1708,http://www.zwinstreek.eu/event/id/1708,1919,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,201,"Het pensionaat van de Zusters Dominicanen wordt aangekocht door het Nationaal Werk voor Kinderwelzijn. Het wordt een kolonie voor zwakke kinderen. Mevr. Leontine Beuselinck, de latere mevr. Gaston Van Steene, wordt schoolhoofd.",school,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,onderwijs,,,,
+,,,,,,,,,godsdienst,,,,
+,,,,,,,,,overheid,,,,
+,,,,,,,,,volksgezondheid,,,,
+1709,http://www.zwinstreek.eu/event/id/1709,1919,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,184,Oprichting van de plaatselijke NSB-afdeling (Oud-Strijdersbond) onder voorzitterschap van Frans Desmidt (Knokke).,vereniging,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,oorlog,,,,
+1715,http://www.zwinstreek.eu/event/id/1715,1920,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,12,Knokke telt 4286 inwoners.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1716,http://www.zwinstreek.eu/event/id/1716,1921,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"160, 198",Gemeenteraadsverkiezingen : Louis Deklerck blijft burgemeester. Frans Desmidt en Marcel Van den Broucke worden schepenen.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1717,http://www.zwinstreek.eu/event/id/1717,19210402,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,139,Overlijden van E.H. J. Opdedrinck in het Sint-Janshospitaal in Damme.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1732,http://www.zwinstreek.eu/event/id/1732,19220406,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,295,"Een groep Antwerpse financiers met Joseph Nellens als centrale figuur, neemt de organisatie Knokke-Duinbergen-Extensions over en sticht de nieuwe maatschappij Société Immobilière Knokke Balnéaire.",toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,stedenbouw,,,,
+1736,http://www.zwinstreek.eu/event/id/1736,192208,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,117,Knokke kent een slecht toeristisch seizoen wegens het slechte weer in augustus.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1749,http://www.zwinstreek.eu/event/id/1749,1924,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,194,Er worden plannen gemaakt voor het Casino en de weg Knokke - Maldegem.,straat,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overheid,,,,
+,,,,,,,,,verkeer,,,,
+1753,http://www.zwinstreek.eu/event/id/1753,1924,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,164,In Knokke zijn reeds 350 watermeters aangesloten.,watervoorziening,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1758,http://www.zwinstreek.eu/event/id/1758,192411,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,194,Door de hevige regens loopt de Schorrenbeek over en komt het jachtgebied van Lippens onder water te staan. Ca. 1500 wilde konijnen verdrinken (Knokke).,rampen,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,overstroming,,,,
+1762,http://www.zwinstreek.eu/event/id/1762,1925,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,117,"De nieuwe dijk, waardoor het Albertstrand wordt gevormd, wordt aangelegd (Knokke).",openbare werken,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,,,,,
+,,,,,,,,,zeedijk,,,,
+,,,,,,,,,toerisme,,,,
+1768,http://www.zwinstreek.eu/event/id/1768,19250627,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"231, 258",Inwijding van het Zoutekerkje (Knokke).,kerk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,godsdienst,,,,
+1770,http://www.zwinstreek.eu/event/id/1770,19251203,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,318,Jan Claeys wordt gemeentesecretaris (tot 1970) van Knokke.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1774,http://www.zwinstreek.eu/event/id/1774,1926,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"75, 78",De Kalfmolen wordt buiten gebruik gesteld (Knokke).,patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1785,http://www.zwinstreek.eu/event/id/1785,1926,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,143,Dit jaar was een toeristisch topjaar voor Knokke met 208.502 zeebaden.,strand,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1797,http://www.zwinstreek.eu/event/id/1797,1927,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,321,"Oprichting in Knokke van de Werkersbond, een socialistische vakbond.",,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1821,http://www.zwinstreek.eu/event/id/1821,1929,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,263,Bouw van de kloostergang bij Het Zoutekerkje (Knokke).,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,kerk,,,,
+1846,http://www.zwinstreek.eu/event/id/1846,1930,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,253,Een derde golfomloop wordt geopend door Prinses Marie-José (Knokke).,sport,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,toerisme,,,,
+,,,,,,,,,koningshuis,,,,
+1848,http://www.zwinstreek.eu/event/id/1848,1930,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"12, 195",Knokke telt 7989 (of 8500 ?) inwoners en 2452 woningen.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1850,http://www.zwinstreek.eu/event/id/1850,1930,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"8, 199, 299",Uitgave van 'De Zeekust en Knocke' door Gaston Van Steene (cfr. 1931)(Knokke).,geschiedenis,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1853,http://www.zwinstreek.eu/event/id/1853,19300125,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"195, 215, 294, 296","Eerstesteenlegging van het Casino van Knokke. Bouw van het Casino door aannemer Frans Desmidt, naar plannen van architect Leon Stynen.",patrimonium,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1870,http://www.zwinstreek.eu/event/id/1870,1931,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,117,Naast het zeebaden komt nu ook het zonnebaden in de mode.,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,strand,,,,
+1871,http://www.zwinstreek.eu/event/id/1871,1931,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,117,Door de naderende crisis is het toeristisch seizoen niet zo geslaagd (Knokke).,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1881,http://www.zwinstreek.eu/event/id/1881,1932,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,204,Knokke Sportief organiseert een wielerwedstrijd voor beroepsrenners.,wielrennen,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1889,http://www.zwinstreek.eu/event/id/1889,1933,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,185,Oprichting van de Vuurkruisen (Knokke).,vereniging,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,oorlog,,,,
+1910,http://www.zwinstreek.eu/event/id/1910,1935,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,118,Na enkele mindere jaren kent men opnieuw een goed toeristisch seizoen.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1912,http://www.zwinstreek.eu/event/id/1912,1936,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,198,De Knokse burgemeester Frans Desmidt wordt ook volksvertegenwoordiger.,overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1927,http://www.zwinstreek.eu/event/id/1927,1938,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,9,Uitgave van de 'Geschiedenis van het Zwin' door Antoine De Smet.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1929,http://www.zwinstreek.eu/event/id/1929,19380723,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,101,Opening in het Casino van Knokke van de retrospectieve tentoonstelling met werk van A. Verwee.,schilderkunst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1932,http://www.zwinstreek.eu/event/id/1932,193810,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"316, 323","Gemeenteraadsverkiezingen in Knokke: liberalen 6 zetels, katholieken 5 zetels.",overheid,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1937,http://www.zwinstreek.eu/event/id/1937,1939,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,284,Knokke beschikt over 5.953 hotelkamers (cfr. 1938).,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,middenstand,,,,
+,,,,,,,,,horeca,,,,
+1942,http://www.zwinstreek.eu/event/id/1942,1939,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,9,Uitgave van 'De Oorsprong van de Vlaamse Kustvlakte' door J.F. De Langhe.,geschiedenis,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+1985,http://www.zwinstreek.eu/event/id/1985,1944,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,311-316,"Bevrijding van Knokke : inname van Tobroek, Binnenhof en gevangenname van generaal Eberding.",leger,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,oorlog,,,,
+1994,http://www.zwinstreek.eu/event/id/1994,19440607,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,198,"Deportatie van een elftal Knokkenaren o.a. burgemeester Desmidt, pastoor Vincke en schepen Van den Broucke.",oorlog,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+2023,http://www.zwinstreek.eu/event/id/2023,1946,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,274,Aanleg van de eerste tennisterreinen bij de Bronlaan-Astridlaan (Knokke).,sport,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,toerisme,,,,
+,,,,,,,,,straat,,,,
+2034,http://www.zwinstreek.eu/event/id/2034,1947,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,273,Recordjaar voor het vliegveld van Knokke met ca. 7000 aankomsten.,verkeer,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,luchtvaart,,,,
+2054,http://www.zwinstreek.eu/event/id/2054,1950,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,12,Knokke telt 11.570 inwoners (of 11.768 inwoners).,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+2058,http://www.zwinstreek.eu/event/id/2058,1951,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,49,Tentoonstelling in La Réserve met werk van verschillende oude Knokse schilders.,schilderkunst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+2063,http://www.zwinstreek.eu/event/id/2063,1952,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,14,Eerste vergadering van het Stedelijk Cultuurverbond onder impuls van Schepen Mattelaer (Knokke).,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+2078,http://www.zwinstreek.eu/event/id/2078,19530201,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"25, 55, 67, 94, 257","Grote stormramp op 1 februari 1953. In Zeeland lopen 125 polders (38.000 ha) onder, vallen 873 slachtoffers (Nederland: 1835) en lijden 11.000 huizen schade..",dijk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,polders,,,,
+,,,,,,,,,rampen,,,,
+,,,,,,,,,verkeer,,,,
+,,,,,,,,,luchtvaart,,,,
+2080,http://www.zwinstreek.eu/event/id/2080,1954,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,271,Het Natuurreservaat Het Zwin wordt afgebakend (Knokke).,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+2083,http://www.zwinstreek.eu/event/id/2083,1955,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,297,Aanpassingswerken in het Casino van Knokke.,kunst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+2088,http://www.zwinstreek.eu/event/id/2088,1955,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,232,"Eerstesteenlegging door bisschop De Smedt, van de nieuwe Sint-Margarethakerk in Knokke.",kerk,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,kerk,,,,
+2109,http://www.zwinstreek.eu/event/id/2109,19581001,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,232,De nieuwe Sint-Margarethakerk van Knokke wordt ingewijd door Mgr. De Smedt.,godsdienst,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,patrimonium,,,,
+,,,,,,,,,kerk,,,,
+2118,http://www.zwinstreek.eu/event/id/2118,1960,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,12,Knokke telt 13.524 inwoners.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+2120,http://www.zwinstreek.eu/event/id/2120,1961,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,12,Knokke telt 13.649 inwoners.,,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+2135,http://www.zwinstreek.eu/event/id/2135,1967,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,9,Uitgave van de studie 'De Nieuw-Hazegraspolder' door Lucien Dendooven.,geschiedenis,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+2137,http://www.zwinstreek.eu/event/id/2137,19670630,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,"147, 150, 333",De tram rijdt voor de laatste keer door van het Station naar Het Zoute en het Albertstrand. De tram wordt vervangen door autobussen. Na het verdwijnen van de tram wordt de Lippenslaan opnieuw aangelegd(Knokke).,verkeer,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,buurtspoorwegen,,,,
+,,,,,,,,,straat,,,,
+,,,,,,,,,openbare werken,,,,
+,,,,,,,,,,,,,
+2142,http://www.zwinstreek.eu/event/id/2142,1968,André D'hont,https://www.wikidata.org/wiki/Q52836177,Dagklapper uit Knokke,https://openlibrary.org//works/OL6882515W,284,Knokke beschikt over 3.207 hotelkamers.,toerisme,,,,"Tielt: Lannoo, 1970. 341 p.: illustraties"
+,,,,,,,,,middenstand,,,,
+,,,,,,,,,horeca,,,,
