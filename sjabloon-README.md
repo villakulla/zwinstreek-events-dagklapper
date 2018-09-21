@@ -1,14 +1,13 @@
-# _[naam van je organisatie]_
-* _Vermeld de missie van je organisatie._
-* _Omschrijf bondig welke data je organisatie verzamelt t.b.v. die missie._
-
+# _Villakulla_
+* _Making data open and visible._
+* _Cultural heritage projects._
 * _Omschrijf wie (een concreet stuk van) die data nodig heeft. (cf. je gebruikscenario)_
 * _Omschrijf welke data je vrij toegankelijk maakt om die nood te lenigen._
 
-## _[naam van je dataset]_
-* _Omschrijf wat er concreet in je dataset zit. (cf. je dataprofiel)_
-* _Omschrijf in welke formaat je data beschikbaar is._
-* _Leg eventueel links naar visualisaties of API's._
+## _Zwinstreek - Historical events_
+* _Enriched data of historical events in the Zwinregion at the border of Flanders and the Netherlands_
+* _csv-file_
+* _http://www.villakulla.eu/project-zwinstreek/_
 
 ## Licenties
 * _Vermeld de licentie op de metadata._
