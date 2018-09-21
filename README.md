@@ -11,8 +11,8 @@
 
 ## _Licences_
 
-* Metadata [<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg">](https://creativecommons.org/share-your-work/public-domain/cc0/)
-* _Images: no images._
+* Metadata: [<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg">](https://creativecommons.org/share-your-work/public-domain/cc0/)
+* _Images: no original images._
 
 ## _User guidelines_
 * _Referral for data: "Sincfala, Museum of the Zwin Region (Knokke-Heist, Belgium) - www.zwinstreek.eu" ._
