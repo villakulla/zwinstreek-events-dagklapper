@@ -4,7 +4,7 @@
 * _For professionals in cultural heritage, tourism and historical scientists. To search, add and edit cultural heritage data on different subjects and themes._
 * _Data on historical events, bibliography, points of interest, people, organisations..._
 
-## Zwin region - Historical events_
+## _Zwin region - Historical events_
 * _Enriched data of historical events in the Zwin region at the border of Flanders and the Netherlands._
 * _csv-file_
 * _http://www.villakulla.eu/project-zwinstreek/_
