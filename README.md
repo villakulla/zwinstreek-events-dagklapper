@@ -1,20 +1,19 @@
 # _Villakulla_
 * _Making data open and visible._
 * _Cultural heritage projects._
-* _Omschrijf wie (een concreet stuk van) die data nodig heeft. (cf. je gebruikscenario)_
-* _Omschrijf welke data je vrij toegankelijk maakt om die nood te lenigen._
+* _For professionals in cultural heritage, tourism and historical scientists. To search, add and edit cultural heritage data on different subjects and themes._
+* _Data on historical events, bibliography, points of interest, people, organisations..._
 
 ## _Zwinstreek - Historical events_
-* _Enriched data of historical events in the Zwinregion at the border of Flanders and the Netherlands_
+* _Enriched data of historical events in the Zwin Region at the border of Flanders and the Netherlands._
 * _csv-file_
 * _http://www.villakulla.eu/project-zwinstreek/_
 
-## Licenties
-* _Vermeld de licentie op de metadata._
-* _Vermeld de licentie op de beelden._
+## _Licences_
 
-## Gebruiksrichtlijnen
-* _Hoe wordt best naar de bron van de data (jouw organisatie) verwezen? (Naamsvermelding)
-* _Hoe verwijs je best naar de inhoud van je data? (cf persistente URI's)_
-* _andere richtlijnen voor gebruik?_
+* _Metadata [<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg">](https://creativecommons.org/share-your-work/public-domain/cc0/) [![CC0](http://www.google.com.au/images/nav_logo7.pnghttps://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/share-your-work/public-domain/cc0/)
+* _Images: no images._
 
+## _User guidelines_
+* _Referral for data: "Sincfala, Museum of the Zwin Region (Knokke-Heist, Belgium) - www.zwinstreek.eu" ._
+* _Referral content data: x_
