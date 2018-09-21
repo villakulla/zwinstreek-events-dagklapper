@@ -11,7 +11,7 @@
 
 ## _Licences_
 
-* _Metadata [<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg">](https://creativecommons.org/share-your-work/public-domain/cc0/) [![CC0](http://www.google.com.au/images/nav_logo7.pnghttps://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/share-your-work/public-domain/cc0/)
+* _Metadata [<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg">](https://creativecommons.org/share-your-work/public-domain/cc0/)
 * _Images: no images._
 
 ## _User guidelines_
